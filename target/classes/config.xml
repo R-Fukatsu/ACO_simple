@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	
+	<nodes> 4 </nodes>
+	
+	<connections>
+		<start> 1 </start>
+		<end> 2 </end>
+		<dis> 1.0 </dis>
+	</connections>
+	
+	<connections>
+		<start> 1 </start>
+		<end> 3 </end>
+		<dis> 2.0 </dis>
+	</connections>
+	
+	<connections>
+		<start> 1 </start>
+		<end> 4 </end>
+		<dis> 1.5 </dis>
+	</connections>
+		
+	<connections>
+		<start> 2 </start>
+		<end> 3 </end>
+		<dis> 1.2 </dis>
+	</connections>
+	
+	<connections>
+		<start> 2 </start>
+		<end> 4 </end>
+		<dis> 2.5 </dis>
+	</connections>
+	
+	<connections>
+		<start> 3 </start>
+		<end> 4 </end>
+		<dis> 1.8 </dis>
+	</connections>
+	
+</config>
